@@ -29,14 +29,14 @@ main {
 
 .search-box {
   width: 100%;
-  margin: 0 0 75px;
+  margin: 15px 0 75px;
 }
 
 .search-box .search-bar {
   display: block;
   width: 100%;
   padding: 15px;
-
+ 
   appearance: none;
   background: none;
   border: none;
