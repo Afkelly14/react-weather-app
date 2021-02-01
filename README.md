@@ -5,4 +5,4 @@
 #### Tools: 
 
     - Framework: React
-    - Open Weather API: [API Link](https://openweathermap.org/api)
+    - Open Weather API: [Open Weather API](https://openweathermap.org/api)
