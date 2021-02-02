@@ -58,8 +58,9 @@ main {
 
 .location {
   color: white;
-  font-size: 45px;
-  padding: 0% 0% 10% 13%;
+  font-size: 55px;
+  padding: 0% 0% 10% 18%;
+  font-weight: 900;
 }
 
 .date {
@@ -71,7 +72,7 @@ main {
 .temp {
   color: white;
   font-size: 80px;
-  padding: 15% 13%;
+  padding: 10% 28%;
   font-weight: 800;
   background-color: rgba(255, 255, 255, 0.5);
   width: 3em;
@@ -81,7 +82,9 @@ main {
 
 .weather {
   color: white;
-  font-size: 50px;
+  font-size: 45px;
+  
+  padding: 10% 24%;
 }
 
 .weatherflex {
