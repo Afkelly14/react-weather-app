@@ -78,7 +78,7 @@ function App() {
           />
         </div>
         {typeof weather.main != "undefined" ? (
-          <div>
+          <div className="weatherflex">
             <div className="location-box">
               <div className="location">
                 {weather.name}, {weather.sys.country}
